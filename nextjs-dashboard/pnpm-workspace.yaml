@@ -1,6 +1,5 @@
 allowBuilds:
   '@ampproject/toolbox-optimizer': true
-  bcrypt: true
   es5-ext: true
   sharp: true
   unrs-resolver: true
